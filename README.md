@@ -1,12 +1,14 @@
 # coursework-web-components
 
-Organized coursework with preserved Git histories. Private migration staging — October 14, 2026.
+Organized coursework with preserved Git histories. Private migration staging â€” October 14, 2026.
 
-- [link-preview-card](components/link-preview-card/) · [original repository](https://github.com/xStat101x/link-preview-card)
-- [ddd-card-list](components/ddd-card-list/) · [original repository](https://github.com/xStat101x/ddd-card-list)
-- [portfolio-sidebar-theme](components/portfolio-sidebar-theme/) · [original repository](https://github.com/xStat101x/portfolio-sidebar-theme)
-- [github-rpg-contributions](components/github-rpg-contributions/) · [original repository](https://github.com/xStat101x/github-rpg-contributions)
-- [polaris-chip](references/polaris-chip/) · [original repository](https://github.com/xStat101x/polaris-chip)
+- [link-preview-card](components/link-preview-card/) Â· [original repository](https://github.com/xStat101x/link-preview-card)
+- [ddd-card-list](components/ddd-card-list/) Â· [original repository](https://github.com/xStat101x/ddd-card-list)
+- [portfolio-sidebar-theme](components/portfolio-sidebar-theme/) Â· [original repository](https://github.com/xStat101x/portfolio-sidebar-theme)
+- [github-rpg-contributions](components/github-rpg-contributions/) Â· [original repository](https://github.com/xStat101x/github-rpg-contributions)
+- [polaris-chip](references/polaris-chip/) Â· [original repository](https://github.com/xStat101x/polaris-chip)
+
+- [campus-card-list seed](components/campus-card-list/) · Initial repository seed; implementation not present.
 
 ## History and rollback
 
@@ -16,7 +18,7 @@ Original whole-project branch snapshots are retained under source/<repository>/<
 
 ## Running projects
 
-Each folder is independent. Use that folder’s README, dependencies and tooling. No dependencies, lockfiles, licenses, notebooks or source files were changed during import. Automation is disabled for staging; no deployment or package publishing was performed.
+Each folder is independent. Use that folderâ€™s README, dependencies and tooling. No dependencies, lockfiles, licenses, notebooks or source files were changed during import. Automation is disabled for staging; no deployment or package publishing was performed.
 
 ## Upstream references
 
